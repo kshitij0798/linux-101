@@ -1,1 +1,2 @@
-this is my line - edited in feature 1
+<<<<<<< HEAD
+this is my line - resolved
